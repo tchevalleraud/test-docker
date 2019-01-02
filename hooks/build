@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+docker build --build-arg UBUNTU_IMAGE=ubuntu:16.04 .
